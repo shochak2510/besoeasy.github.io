@@ -1,7 +1,9 @@
 ---
-title:  "Aliexpress API "
-date:   2013-11-10 10:18:00
-description: JSON Product Data For Aliexpress
+layout: post
+title:  "Aliexpress API"
+categories: [ Aliexpress, API, ecom ]
+image: https://i.ibb.co/QmWHcTX/charles-1096406-unsplash.jpg
+featured: false
 ---
 
 ### Aliexpress Product API | JSON Product Data For Aliexpress, World's 1st Aliexpress API
