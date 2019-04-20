@@ -1,13 +1,16 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-sm-4">
+<div class="col-sm-6">
 <div class="card">
     <div class="row">
-   
+        <div class="col-md-5 wrapthumbnail">
+            <a href="{{ post.url | absolute_url }}">
+            <div class="thumbnail" style="background-image:url({{ post.image }});">
+            </div>
+            </a>
+        </div>
+        <div class="col-md-7">
             <div class="card-block">
-   <a href="{{ post.url | absolute_url }}">
-               <div class="thumbnail" style="background-image:url({{ post.image }});"></div>
-  </a>
                 <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
                 <div class="metafooter">
@@ -26,7 +29,7 @@
                     </div>
                 </div>
             </div>
- 
+        </div>
     </div>
 </div>
 </div>
