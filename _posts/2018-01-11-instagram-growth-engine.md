@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
+title:  "Instagram Growth Engine"
+categories: [ Instagram, Growth, Engine ]
+image: https://i.ibb.co/fx3v8jB/jakob-owens-518866-unsplash.jpg
 ---
 
 
