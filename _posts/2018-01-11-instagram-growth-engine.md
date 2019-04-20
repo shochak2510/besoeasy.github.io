@@ -44,4 +44,5 @@ Instagram Growth Automate is a full automation bot, that grows your Instagram pr
 Bot is limited to 1000 cycles per run, this is due to fact that instgram only allows 1000 likes + 500 comments without getting banned, so for your safety i placed 1000 cycles limit per run. Allow Each of your instagram account 24 hours before running bot again.
  
  
+
 <a href="https://github.com/besoeasy/besoeasy.github.io/blob/master/cdn/instagram.exe" class="btn">Download</a>
