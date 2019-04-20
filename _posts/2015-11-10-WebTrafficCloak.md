@@ -2,7 +2,7 @@
 layout: post
 title:  "WebTraffic Cloaker"
 categories: [ web, cloaker ]
-image: https://i.ibb.co/fx3v8jB/jakob-owens-518866-unsplash.jpg
+image: https://i.ibb.co/BB5ybtS/taras-shypka-424932-unsplash.jpg
 featured: false
 ---
 
