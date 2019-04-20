@@ -1,7 +1,9 @@
 ---
-title:  "Web Traffic Cloak"
-date:   2013-11-10 10:18:00
-description: Hide Your Content From Search Engines and Bots, Show Only To Your Targeted Audience 
+layout: post
+title:  "WebTraffic Cloaker"
+categories: [ web, cloaker ]
+image: https://i.ibb.co/fx3v8jB/jakob-owens-518866-unsplash.jpg
+featured: false
 ---
 
 What is Cloaking ? Cloaking means you show one landing page to a certain percentage of the audience, and a different landing page to the rest.
@@ -20,7 +22,7 @@ How Do Cloakers Work? Each cloaker has their own technology and some work better
 
 IP Collection – The software has a database of the IP addresses of the reviewers. This can be as simple as launching a campaign, pausing it, and recording any IP’s that visit the page. Referral URL’s – If someone is coming from dev.facebook.com, it’s probably a reviewer. GeoIP – This method is quite simple. If you’re running traffic in Italy, then only allow traffic from Italy. Sometimes the traffic source reviewers are in UK or USA, and they’re not going to be able to see your page unless they have an Italian IP address. Ban the city – Does the traffic source only have reviewers based in Montreal, Canada? Then they can just block any visitors from Montreal.
 
-########################Not responsible for any illegal activities your company or you do ! ###############
+## Not responsible for any illegal activities your company or you do ! ##
 
 
 
