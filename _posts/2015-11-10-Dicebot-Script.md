@@ -1,11 +1,13 @@
 ---
-title:  "DICEBOT WIN SCRIPT FOR YOLODICE, PRIMEDICE, STAKE, Nitrogames"
-date:   2013-11-10 10:18:00
-description: DICEBOT WIN SCRIPT FOR YOLODICE, PRIMEDICE, STAKE, Nitrogames
+layout: post
+title:  "Seuntjie Dicebot Script"
+categories: [ Dicebot, Gambling, Bitcoin ]
+image: https://i.ibb.co/WKDsJqr/michal-parzuchowski-43274-unsplash.jpg
+featured: false
 ---
 
 
-
+Check back every month for a updated version !
 
 ### SCRIPT (COPY & PASTE)
 
