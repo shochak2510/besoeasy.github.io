@@ -2,7 +2,7 @@
 layout: post
 title:  "Custom Bot Creation"
 categories: [ Instagram, Growth, Engine ]
-image: https://i.ibb.co/fx3v8jB/jakob-owens-518866-unsplash.jpg
+image: https://i.ibb.co/rc1gLkn/Black-Hole-icon.png
 featured: true
 ---
 
