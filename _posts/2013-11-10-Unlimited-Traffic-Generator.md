@@ -2,7 +2,7 @@
 layout: post
 title:  "Smart Unlimited Traffic Generator"
 categories: [ Unlimited, Traffic ]
-image: https://i.ibb.co/Q60PKd0/freestocks-org-72172-unsplash.jpg
+image: https://i.ibb.co/TBTrQDs/markus-spiske-207946-unsplash.jpg
 featured: false
 ---
 
