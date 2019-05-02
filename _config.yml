@@ -32,7 +32,7 @@ jekyll-archives:
   layout: archive
 
 
-permalink: /:categories/:title:output_ext
+permalink: /:title:output_ext
 
 
 # Other
