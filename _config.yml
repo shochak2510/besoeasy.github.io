@@ -30,8 +30,9 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks:
-    category: '/category/:name/'
+
+
+permalink: /:categories/:month/:day/:title:output_ext
 
 
 # Other
