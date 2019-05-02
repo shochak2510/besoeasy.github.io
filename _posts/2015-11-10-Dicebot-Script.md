@@ -7,6 +7,10 @@ featured: false
 ---
 
 
+
+
+Seuntjie Dicebot Script, this script performs better with balance of 0.1 or more. The Script is designed for steady steep jump over time and avoids risk.
+
 Check back every month for a updated version !
 
 ### SCRIPT (COPY & PASTE)
